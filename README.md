@@ -18,4 +18,6 @@ And you are good to go.
 
 #Requirements
 
-You need to have docker configured to run without sudo on your system and https://registry.hub.docker.com/u/iojs/build/settings/webhooks/ needs to point to your server.
+* Docker (needs to run without sudo)
+* Your server must be registered at https://registry.hub.docker.com/u/iojs/build/settings/webhooks/
+* You must have `curl` installed
