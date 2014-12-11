@@ -1,0 +1,27 @@
+{
+  "name": "build-container-sync",
+  "version": "1.0.0",
+  "bin": {
+    "build-container-sync": "build-sync"
+  },
+  "description": "Keeps a server's docker images in sync with https://github.com/iojs/build-containers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "William Blankenship <william.jblankenship@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "docker-webhook": "^1.0.0",
+    "forever-monitor": "^1.5.2"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wblankenship/build-container-sync"
+  },
+  "bugs": {
+    "url": "https://github.com/wblankenship/build-container-sync/issues"
+  },
+  "homepage": "https://github.com/wblankenship/build-container-sync"
+}
