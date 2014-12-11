@@ -12,7 +12,7 @@
   "author": "William Blankenship <william.jblankenship@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "docker-webhook": "^1.0.0",
+    "docker-webhook": "^1.1.0",
     "forever-monitor": "^1.5.2"
   },
   "devDependencies": {},
