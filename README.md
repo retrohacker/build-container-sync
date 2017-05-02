@@ -1,6 +1,8 @@
 build-container-sync
 ===
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/retrohacker/build-container-sync.svg)](https://greenkeeper.io/)
+
 A simple tool to keep your server's docker images in sync with https://github.com/iojs/build-containers
 
 #Usage
